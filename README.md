@@ -36,3 +36,25 @@ This repo covers the **complete AI agent lifecycle**:
 - OpenAI/Anthropic API keys (for examples)
 
 ## 🚀 Quick Start
+```
+git clone https://github.com/Prateek1771/google-adk-ai-agents.git
+cd google-adk-ai-agents
+
+```
+
+## 💡 Why This Repo?
+- **Practical**: 100% code-first learning with working examples
+- **Progressive**: Builds from basics → production systems
+- **Real-world**: Patterns used in chatbots, SEO tools, SaaS automation
+
+## 🤝 Contributing
+Fork, implement new patterns, or add deployment configs! PRs welcome.
+
+## 📄 License
+MIT - Free to use in commercial projects.
+
+**Built by [Prateek Hitli](https://github.com/Prateek1771) | [LinkedIn](https://tinyurl.com/prateek-hitli)**
+
+⭐ Star if helpful! Let's build the next generation of AI agents together.
+
+
